@@ -1,7 +1,7 @@
 
 # Too Lit Tab
 
-<https://www.youtube.com/watch?v=z8w3NvePxIA>
+<https://www.youtube.com/watch?v=hdibrAzjfbY>
 
 C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
   
@@ -38,4 +38,3 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     A#|-------------2-2-2-2-5-5-5-5-2-2-2-2---------2-2-2-2-5-5-5-5-2-2-4-4/--
     F |--3-3-3-3----------------------------3-3-3-3---------------------------
     C |-----------------------------------------------------------------------
-
