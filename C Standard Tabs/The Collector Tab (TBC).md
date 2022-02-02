@@ -1,4 +1,4 @@
-# Song Name
+# The Collector Tab
 
 <https://www.youtube.com/watch?v=0qnNGb9zpOA>
 
