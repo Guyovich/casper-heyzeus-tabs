@@ -11,7 +11,7 @@
 - [ ] New Kid
 - [ ] Pools of Pearl
 - [ ] Private & Confidential
-- [ ] The Collector
+- [x] The Collector
 - [ ] The Swarm
 - [x] Too Lit
 - [x] You Were Warned
