@@ -7,6 +7,7 @@
 
 - [x] [Bank Manager](/C%20Standard%20Tabs/Bank%20Manager%20Tab.md)
 - [x] [Happy Cum Week](/C%20Standard%20Tabs/Happy%20Cum%20Week%20Tab.md)
+- [ ] Have Faith
 - [ ] How Did You Get Here
 - [ ] New Kid
 - [ ] Pools of Pearl
