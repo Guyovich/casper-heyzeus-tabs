@@ -3,14 +3,14 @@
 
 <https://casperheyzeus1.bandcamp.com>
 
-## C Standard Tab Status
+## C Standard Tabs
 
 - [x] [Bank Manager](/C%20Standard%20Tabs/Bank%20Manager%20Tab.md)
 - [x] [Happy Cum Week](/C%20Standard%20Tabs/Happy%20Cum%20Week%20Tab.md)
 - [ ] How Did You Get Here
 - [ ] New Kid
 - [ ] Pools of Pearl
-- [ ] Private & Confidential
+- [ ] Private & Confidential _(In Progress)_
 - [x] [The Collector](/C%20Standard%20Tabs/The%20Collector%20Tab.md)
 - [ ] The Swarm
 - [x] [Too Lit](C%20Standard%20Tabs/Too%20Lit%20Tab.md)
