@@ -5,7 +5,7 @@
 
 ## C Standard Tab Status
 
-- [x] Bank Manager
+- [x] [Bank Manager](/C%20Standard%20Tabs/Bank%20Manager%20Tab.md)
 - [x] Happy Cum Week
 - [ ] How Did You Get Here
 - [ ] New Kid
