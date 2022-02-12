@@ -5,7 +5,7 @@
 
 ## C Standard Tab Status
 
-- [ ] Bank Manager
+- [x] Bank Manager
 - [x] Happy Cum Week
 - [ ] How Did You Get Here
 - [ ] New Kid
