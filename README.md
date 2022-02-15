@@ -11,7 +11,7 @@
 - [ ] How Did You Get Here
 - [ ] New Kid
 - [ ] Pools of Pearl
-- [ ] Private & Confidential _(In Progress)_
+- [x] [Private & Confidential](/C%20Standard%20Tabs/Private%20&%20Confidential%20Tab.md)
 - [x] [The Collector](/C%20Standard%20Tabs/The%20Collector%20Tab.md)
 - [ ] The Swarm
 - [x] [Too Lit](C%20Standard%20Tabs/Too%20Lit%20Tab.md)
