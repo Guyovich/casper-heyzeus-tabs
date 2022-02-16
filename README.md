@@ -14,7 +14,7 @@
 - [x] [Private & Confidential](/C%20Standard%20Tabs/Private%20&%20Confidential%20Tab.md)
 - [x] [The Collector](/C%20Standard%20Tabs/The%20Collector%20Tab.md)
 - [ ] The Swarm
-- [x] [Too Lit](C%20Standard%20Tabs/Too%20Lit%20Tab.md)
+- [x] [Too Lit](/C-Standard-Tabs/Too-Lit-Tab.md)
 - [x] [You Were Warned](/C%20Standard%20Tabs/You%20Were%20Warned%20Tab.md)
 
 ![HeyzeusLogoGreen](https://user-images.githubusercontent.com/91059083/150850411-97e8c540-13ba-4486-9adc-54a8bc9c8538.png)
