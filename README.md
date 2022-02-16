@@ -9,7 +9,7 @@
 - [x] [Happy Cum Week](/C%20Standard%20Tabs/Happy%20Cum%20Week%20Tab.md)
 - [ ] Have Faith
 - [ ] How Did You Get Here
-- [ ] New Kid
+- [ ] New Kid _(In Progress)_
 - [ ] Pools of Pearl
 - [x] [Private & Confidential](/C%20Standard%20Tabs/Private%20&%20Confidential%20Tab.md)
 - [x] [The Collector](/C%20Standard%20Tabs/The%20Collector%20Tab.md)
