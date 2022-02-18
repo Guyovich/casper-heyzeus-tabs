@@ -5,16 +5,16 @@
 
 ## C Standard Tabs
 
-- [x] [Bank Manager](/C-Standard-Tabs/Bank-Manager-Tab.md)
+- [x] [Bank Manager](/C-Standard-Tabs/Bank-Manager-Tab.md) - __Unlikely to be in set__
 - [x] [Happy Cum Week](/C-Standard-Tabs/Happy-Cum-Week-Tab.md)
 - [ ] Have Faith
 - [ ] How Did You Get Here
-- [ ] New Kid _(In Progress)_
+- [ ] [New Kid](C-Standard-Tabs/New-Kid-Tab-(TBC).md) _(In Progress)_
 - [ ] Pools of Pearl
 - [x] [Private & Confidential](/C-Standard-Tabs/Private-&-Confidential-Tab.md)
 - [x] [The Collector](/C-Standard-Tabs/The-Collector-Tab.md)
 - [ ] The Swarm
 - [x] [Too Lit](/C-Standard-Tabs/Too-Lit-Tab.md)
-- [x] [You Were Warned](/C-Standard-Tabs/You-Were-Warned-Tab.md)
+- [x] [You Were Warned](/C-Standard-Tabs/You-Were-Warned-Tab.md) - __May be abridged version live, possibly set intro?__
 
 ![HeyzeusLogoGreen](https://user-images.githubusercontent.com/91059083/150850411-97e8c540-13ba-4486-9adc-54a8bc9c8538.png)
