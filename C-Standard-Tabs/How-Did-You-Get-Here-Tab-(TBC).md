@@ -180,7 +180,7 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ### Outro (Rhythm) - TBC
 
-        This is not the chorus - same lyrics but different chords
+        This is not the chorus - same vocals but different chords
     C |--
     G |--
     D#|--
