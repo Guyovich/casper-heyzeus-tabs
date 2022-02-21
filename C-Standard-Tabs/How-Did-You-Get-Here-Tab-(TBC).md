@@ -178,7 +178,7 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     C |-------------------------------------------------------------------
         |-------------------------------|
 
-### Outro (Rhythm) - TBC
+### Outro - TBC
 
         This is not the chorus - same vocals but different chords
     C |--
