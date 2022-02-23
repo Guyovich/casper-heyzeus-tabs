@@ -8,7 +8,7 @@
 - [x] [Bank Manager](/C-Standard-Tabs/Bank-Manager-Tab.md) - __Unlikely to be in set__
 - [x] [Happy Cum Week](/C-Standard-Tabs/Happy-Cum-Week-Tab.md)
 - [ ] Have Faith
-- [ ] [How Did You Get Here](/C-Standard-Tabs/How-Did-You-Get-Here-Tab-(TBC).md) (_In Progress_)
+- [x] [How Did You Get Here](/C-Standard-Tabs/How-Did-You-Get-Here-Tab.md)
 - [x] [New Kid](/C-Standard-Tabs/New-Kid-Tab.md)
 - [ ] Pools of Pearl
 - [x] [Private & Confidential](/C-Standard-Tabs/Private-&-Confidential-Tab.md)
