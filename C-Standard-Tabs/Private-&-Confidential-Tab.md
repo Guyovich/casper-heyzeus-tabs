@@ -188,4 +188,4 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ### 2nd & 3rd Chorus
 
-    F#5 G#5 D5 G#5    F#5 G#5 D5 G#5   F#6 G#6 D6 D#6   F#6 G#6 D6 D#6
+    F#5 G#5 D5 G#5   F#5 G#5 D5 G#5   F#6 G#6 D6 D#6   F#6 G#6 D6 D#6
