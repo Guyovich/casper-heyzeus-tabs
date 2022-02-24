@@ -365,7 +365,11 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ### Verse 2
 
-    C4 D#4 F4 A#3 C4 A#3 G3   C4 D#4 F4 G4 C5 A#4 G4 D#4   C3 D#3 A#2 C3 D#3 A#2
+    C4 D#4 F4 A#3 C4 A#3 G3
+    
+    C4 D#4 F4 G4 C5 A#4 G4 D#4
+    
+    C3 D#3 A#2 C3 D#3 A#2
 
 ### Outro (TBC)
 
