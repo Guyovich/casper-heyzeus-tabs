@@ -184,8 +184,12 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ### Verse
 
-    F6 G6 G#6 F6 E6 F6 G6   F6 G6 G#6 F6 E6 F6 G6 C7
+    F6 G6 G#6 F6 E6 F6 G6
+    
+    F6 G6 G#6 F6 E6 F6 G6 C7
 
 ### 2nd & 3rd Chorus
 
-    F#5 G#5 D5 G#5 (x2)  F#6 G#6 D6 D#6 (x2)
+    F#5 G#5 D5 G#5 (x2)  
+    
+    F#6 G#6 D6 D#6 (x2)
