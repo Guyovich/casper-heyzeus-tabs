@@ -1,4 +1,4 @@
-# The Collector Tab
+# The Collector Tab (Synth TBC)
 
 <https://www.youtube.com/watch?v=0qnNGb9zpOA>
 
@@ -234,3 +234,5 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     A#|-----
     F |-----
     C |--0--
+
+## Synth (TBC)

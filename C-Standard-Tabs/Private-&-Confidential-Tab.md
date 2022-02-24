@@ -1,4 +1,4 @@
-# Private & Confidential Tab
+# Private & Confidential Tab (Synth TBC)
 
 <https://www.youtube.com/watch?v=mgRY8-ld6D8>
 
@@ -179,3 +179,5 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     A#|------------------------------------------------------------------- x5
     F |-------------------------------------------------------------------
     C |--3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-3-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5--
+
+## Synth (TBC)
