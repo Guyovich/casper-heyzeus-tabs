@@ -193,3 +193,15 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     F#5 G#5 D5 G#5 (x2)  
     
     F#6 G#6 D6 D#6 (x2)
+
+### Bridge (TBC)
+
+    ?
+
+### Brakdoon (TBC)
+
+    ?
+
+### Bridge 2 (TBC)
+
+    ?
