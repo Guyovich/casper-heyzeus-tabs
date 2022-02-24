@@ -44,3 +44,9 @@ C Standard
     A#|--
     F |--
     C |--
+
+## Synth
+
+### Intro 2
+
+    C4
