@@ -198,7 +198,9 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
     F#5 G#5 D5 G#5 (x2)  
     
-    F#6 G#6 D6 D#6 (x2)
+    F#6 G#6 D6 D#6
+
+    F#6 G#6 D6
 
 ### Bridge (TBC)
 
@@ -206,8 +208,10 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ### Brakdoon
 
-    C4 A#3 D#2 F2 (x2)
+    C4 A#3 D#3 F3 (x2)
 
-### Bridge 2 (TBC)
+### Bridge 2
 
-    ?
+    E4 F4 G4 A4 C5  D5 C5 A#4 A4 G4  A#4 A4 G4 F4 G4   F4 G4 F4 G4 F4 G4 F4
+
+    E4 F4 G4 A4 C5  D5 C5 A#4 A4 G4  A4 C5 D5 C5
