@@ -157,3 +157,15 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     C |--0----12----11--
 
 ## Synth (TBC)
+
+### Pre-Chorus (TBC)
+
+    ?
+
+### Chorus (TBC)
+
+    ?
+
+### Outro (TBC)
+
+    ?

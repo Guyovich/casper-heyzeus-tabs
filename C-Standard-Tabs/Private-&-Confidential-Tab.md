@@ -182,6 +182,10 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ## Synth (TBC)
 
+### Pre-Verse (TBC)
+
+    ?
+
 ### Verse
 
     F6 G6 G#6 F6 E6 F6 G6
