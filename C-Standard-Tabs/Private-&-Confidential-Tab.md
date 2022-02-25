@@ -182,9 +182,11 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ## Synth (TBC)
 
-### Pre-Verse (TBC)
+### Pre-Verse
 
-    ?
+    F5 G5 G#5 E5 G5 G#5 
+    
+    F5 G5 G#5 B5 C6
 
 ### Verse
 
@@ -202,9 +204,9 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
     ?
 
-### Brakdoon (TBC)
+### Brakdoon
 
-    ?
+    C4 A#3 D#2 F2 (x2)
 
 ### Bridge 2 (TBC)
 
