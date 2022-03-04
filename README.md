@@ -5,6 +5,8 @@
 
 ## C Standard Tabs
 
+Use `Ctrl + Left Click` to open link in new browser tab:
+
 - [x] [Bank Manager](/C-Standard-Tabs/Bank-Manager-Tab.md) - __Unlikely to be in set__
 - [x] [Happy Cum Week](/C-Standard-Tabs/Happy-Cum-Week-Tab.md)
 - [ ] Have Faith
