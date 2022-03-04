@@ -1,5 +1,5 @@
 
-# Too Lit Tab (Synth TBC)
+# Too Lit Tab
 
 <https://www.youtube.com/watch?v=hdibrAzjfbY>
 
@@ -156,7 +156,7 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     F |-----------------
     C |--0----12----11--
 
-## Synth (TBC)
+## Synth
 
 ### Pre-Chorus
 
@@ -166,9 +166,9 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
     F4 C5 A#4 G#4 A#4   F4 C5 A#4 G#4 D#4 (x2)
 
-### Verse (TBC)
+### Verse
 
-    ?
+    F4 D#4 F4 D#4   G#3 C4 D#4 C4 G#3 C4 D#4 C4 D4 (x4) 
 
 ### Outro
 
