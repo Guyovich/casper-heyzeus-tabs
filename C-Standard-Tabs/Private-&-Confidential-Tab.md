@@ -1,4 +1,4 @@
-# Private & Confidential Tab (Synth TBC)
+# Private & Confidential Tab
 
 <https://www.youtube.com/watch?v=mgRY8-ld6D8>
 
@@ -202,9 +202,9 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
     F#6 G#6 D6
 
-### Bridge (TBC)
+### Bridge
 
-    ?
+    C3 C4 C5 C6
 
 ### Brakdoon
 
