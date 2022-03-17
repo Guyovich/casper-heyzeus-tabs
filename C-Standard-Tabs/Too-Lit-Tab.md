@@ -184,7 +184,7 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ### Verse
 
-    F4 D#4 F4 D#4   G#3 C4 D#4 C4 G#3 C4 D#4 C4 D4 (x4) 
+    A#4 C4 A#4 C4   G#3 C4 D#4 C4 G#3 C4 D#4 C4 D4 (x4) 
 
 ### Outro
 
