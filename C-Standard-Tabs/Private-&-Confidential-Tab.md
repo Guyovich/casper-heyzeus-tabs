@@ -208,7 +208,7 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ### Brakdoon
 
-    C4 A#3 D#3 F3 (x2)
+    C4 A#3 D#3 F3 (x4)
 
 ### Bridge 2
 
