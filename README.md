@@ -17,6 +17,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [The Collector](/C-Standard-Tabs/The-Collector-Tab.md)
 - [ ] The Swarm
 - [x] [Too Lit](/C-Standard-Tabs/Too-Lit-Tab.md)
+- [ ] Two Of Hearts _(Stacey Q Cover)_
 - [x] [You Were Warned](/C-Standard-Tabs/You-Were-Warned-Tab.md) - __May be abridged version live, possibly set intro?__
 
 ![HeyzeusLogoGreen](https://user-images.githubusercontent.com/91059083/150850411-97e8c540-13ba-4486-9adc-54a8bc9c8538.png)
