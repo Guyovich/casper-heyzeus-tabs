@@ -236,3 +236,12 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     C |--0--
 
 ## Synth (TBC)
+
+### Chorus (TBC)
+  A?
+
+### Verse 2 (TBC)
+  a?
+
+### Outro (TBC)
+  H?
