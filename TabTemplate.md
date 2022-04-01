@@ -7,7 +7,7 @@ _(Optional)_ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ## Guitar
   
-### Intro (Lead/Rhythm)
+### Intro (Lead / Rhythm)
 
 Standard
 

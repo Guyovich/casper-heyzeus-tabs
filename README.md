@@ -9,7 +9,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 
 - [x] [Bank Manager](/C-Standard-Tabs/Bank-Manager-Tab.md) - __Unlikely to be in set__
 - [x] [Happy Cum Week](/C-Standard-Tabs/Happy-Cum-Week-Tab.md)
-- [ ] Have Faith
+- [ ] Have Faith _(In Progress)_
 - [x] [How Did You Get Here](/C-Standard-Tabs/How-Did-You-Get-Here-Tab.md)
 - [x] [New Kid](/C-Standard-Tabs/New-Kid-Tab.md)
 - [ ] Pools of Pearl
