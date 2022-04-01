@@ -3,6 +3,8 @@
 
 <https://www.youtube.com/watch?v=T9sOXBNAkvI>
 
+[Stems](https://drive.google.com/drive/folders/13c1yq8osK5WIbDPz-fcJ3Ah7Xdkf9bmy?usp=sharing)
+
 C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ## Guitar
@@ -17,8 +19,6 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     C |--
 
 ## Bass
-
-[Bass Stem](/C-Standard-Tabs/Stems/HaveFaith_BassStem.mp3)
 
 ### Intro
 
