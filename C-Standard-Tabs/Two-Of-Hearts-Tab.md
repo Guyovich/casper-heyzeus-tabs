@@ -163,8 +163,12 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ## Synth
 
-### Intro
+### Intro / Verse
 
     Arp
     F4 F5 F4 F5 F4 F5 F4 F5 C#4 C#5 C#4 C#5 D#4 D#5 D#4 D#5
     F4 F5 F4 F5 F4 F5 F4 F5 A#5 A#6 A#5 A#6 D#4 D#5 D#4 D#5
+
+### Bridge
+
+    D#3 F3 D#3 F3 D#3 F3 D#3 C3 
