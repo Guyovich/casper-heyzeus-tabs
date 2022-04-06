@@ -222,6 +222,10 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     D#5 D5 A#4 C4    D#5 D5 A#4 G4 F4 G#4
     D#5 D5 A#4 C4    D#5 D5 A#4 G4
 
+### Chorus (TBC) _- Not currently played_
+
 ### Pre-Verse 3
 
     D#5 D5 A#4 C4    D#5 D5 A#4 G4
+
+### Outro (TBC) _- Not currently played_
