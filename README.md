@@ -3,9 +3,13 @@
 
 <https://casperheyzeus1.bandcamp.com>
 
-## C Standard Tabs
-
 Use `Ctrl + left click` to open link in new browser tab:
+
+## Standard Tabs
+
+- [ ] Pain Is Eternal
+
+## C Standard Tabs
 
 - [x] [Bank Manager](/C-Standard-Tabs/Bank-Manager-Tab.md) - __Unlikely to be in set__
 - [x] [Happy Cum Week](/C-Standard-Tabs/Happy-Cum-Week-Tab.md)
