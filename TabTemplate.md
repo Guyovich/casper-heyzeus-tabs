@@ -11,12 +11,12 @@ _(Optional)_ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 Standard
 
-    e|--
-    B|--
-    G|--
-    D|--
-    A|--
-    E|--
+    e |--
+    B |--
+    G |--
+    D |--
+    A |--
+    E |--
 
 C Standard
 
