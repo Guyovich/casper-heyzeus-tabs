@@ -7,7 +7,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 
 ## Standard Tabs
 
-- [ ] Pain Is Eternal
+- [x] [Pain Is Eternal](Tabs/Pain-Is-Eternal-Tab-TBC.md)
 
 ## C Standard Tabs
 
