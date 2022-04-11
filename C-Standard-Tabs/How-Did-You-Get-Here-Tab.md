@@ -1,5 +1,5 @@
 
-# How Did You Get Here Tab (Synth TBC)
+# How Did You Get Here Tab
 
 <https://www.youtube.com/watch?v=vviJWwJgcro>
 
@@ -371,6 +371,6 @@ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
     
     C3 D#3 A#2 C3 D#3 A#2
 
-### Outro (TBC)
+### Outro
 
-    ?
+    C4 F4 D#4 F3 D#3    C4 D#4 F4 D#4 F4 G3 F3 (x2)
