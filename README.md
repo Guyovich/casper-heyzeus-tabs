@@ -7,8 +7,37 @@ Use `Ctrl + left click` to open link in new browser tab:
 
 ## Standard Tabs
 
+- [ ] A Family Trip to Burger King
 - [x] [Albino Pigeon](Tabs/Albino-Pigeon-Tab.md)
+- [ ] Alfred's Lament
+- [ ] Another Love Song (Jodeh)
+- [ ] Church on Sunday
+- [ ] Don't Be A Cunt
+- [ ] Doomsday
+- [ ] Drinking in L.A. (Bran Van 3000 cover)
+- [ ] Goodbye
+- [ ] Grow Up
+- [ ] He Is Vigo
+- [ ] He Who Can't Be Questioned
+- [ ] Hey Karl
+- [ ] Hey! Fuck Face
+- [ ] I Know Best
+- [ ] Last Year
+- [ ] Lunch Break
+- [ ] Muerte El Salvador
+- [ ] Nostalgia
 - [x] [Pain Is Eternal](Tabs/Pain-Is-Eternal-Tab.md)
+- [ ] Para Sight
+- [ ] People on the Bus
+- [ ] Poster Boy
+- [ ] Scumbag
+- [ ] The Castle of Kilbarney
+- [ ] The More I See
+- [ ] The Mountains
+- [ ] TMNT (Teenage Mutant Hero Turtles theme cover)
+- [ ] Unhinged
+- [ ] Vacate
+- [ ] Wasted
 
 ## C Standard Tabs
 
