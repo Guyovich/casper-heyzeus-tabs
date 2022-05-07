@@ -7,7 +7,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 
 ## Standard Tabs
 
-- [ ] A Family Trip to Burger King
+- [x] [A Family Trip to Burger King](Tabs/A-Family-Trip-To-Burger-King-Tab.md)
 - [x] [Albino Pigeon](Tabs/Albino-Pigeon-Tab.md)
 - [ ] Alfred's Lament
 - [ ] Another Love Song (Jodeh)
