@@ -10,7 +10,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [A Family Trip to Burger King](Tabs/A-Family-Trip-To-Burger-King-Tab.md)
 - [x] [Albino Pigeon](Tabs/Albino-Pigeon-Tab.md)
 - [x] [Alfred's Lament](Tabs/Alfreds-Lament-Tab.md)
-- [ ] Another Love Song (Jodeh)
+- [x] [Another Love Song (Jodeh)](Tabs/Another-Love-Song-Jodeh.md)
 - [ ] Church on Sunday
 - [ ] Don't Be A Cunt
 - [ ] Doomsday
