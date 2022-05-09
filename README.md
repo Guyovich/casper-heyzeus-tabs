@@ -11,7 +11,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Albino Pigeon](Tabs/Albino-Pigeon-Tab.md)
 - [x] [Alfred's Lament](Tabs/Alfreds-Lament-Tab.md)
 - [x] [Another Love Song (Jodeh)](Tabs/Another-Love-Song-Jodeh.md)
-- [ ] Church on Sunday
+- [x] [Church on Sunday](Tabs/Church-On-Sunday-Tab.md)
 - [ ] Don't Be A Cunt
 - [ ] Doomsday
 - [ ] Drinking in L.A. (Bran Van 3000 cover)
