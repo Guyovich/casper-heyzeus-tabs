@@ -31,6 +31,9 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] People on the Bus
 - [ ] Poster Boy
 - [ ] Scumbag
+- [ ] Something You Love
+- [ ] Studio 26
+- [ ] Sugartax
 - [ ] The Castle of Kilbarney
 - [ ] The More I See
 - [ ] The Mountains
