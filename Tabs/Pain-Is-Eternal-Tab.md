@@ -1,4 +1,3 @@
-
 # Pain Is Eternal Tab (Synth TBC)
 
 <https://www.youtube.com/watch?v=CY3UtaB0XHM>

@@ -1,4 +1,3 @@
-
 # Have Faith Tab (Synth TBC)
 
 <https://www.youtube.com/watch?v=T9sOXBNAkvI>

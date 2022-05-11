@@ -1,4 +1,3 @@
-
 # Two Of Hearts Tab (Stacey Q cover)
 
 <https://www.youtube.com/watch?v=CIVg5Uyz1sQ>

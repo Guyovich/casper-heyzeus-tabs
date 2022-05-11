@@ -1,4 +1,3 @@
-
 # New Kid Tab
 
 <https://www.youtube.com/watch?v=dpnYTIL7-U0>

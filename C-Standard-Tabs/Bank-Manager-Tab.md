@@ -1,4 +1,3 @@
-
 # Bank Manager Tab
 
 <https://youtu.be/TPrGhFhuM9Y>
