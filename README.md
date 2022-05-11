@@ -14,7 +14,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Church on Sunday](Tabs/Church-On-Sunday-Tab.md)
 - [x] [Don't Be A Cunt](Tabs/Dont-Be-A-Cunt-Tab.md)
 - [x] [Doomsday](Tabs/Doomsday-Tab.md)
-- [ ] Drinking in L.A. (Bran Van 3000 cover)
+- [x] [Drinking in L.A. (Bran Van 3000 cover)](Tabs/Drinking-In-LA-Tab.md)
 - [ ] Goodbye
 - [ ] Grow Up
 - [ ] He Is Vigo
