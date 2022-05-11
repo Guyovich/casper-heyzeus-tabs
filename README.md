@@ -13,7 +13,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Another Love Song (Jodeh)](Tabs/Another-Love-Song-Jodeh.md)
 - [x] [Church on Sunday](Tabs/Church-On-Sunday-Tab.md)
 - [x] [Don't Be A Cunt](Tabs/Dont-Be-A-Cunt-Tab.md)
-- [ ] Doomsday
+- [x] [Doomsday](Tabs/Doomsday-Tab.md)
 - [ ] Drinking in L.A. (Bran Van 3000 cover)
 - [ ] Goodbye
 - [ ] Grow Up
