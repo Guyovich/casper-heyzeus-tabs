@@ -14,9 +14,9 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Church on Sunday](Tabs/Church-On-Sunday-Tab.md)
 - [x] [Don't Be A Cunt](Tabs/Dont-Be-A-Cunt-Tab.md)
 - [x] [Doomsday](Tabs/Doomsday-Tab.md)
-- [x] [Drinking in L.A. (Bran Van 3000 cover)](Tabs/Drinking-In-LA-Tab.md)
-- [ ] Goodbye
-- [x] [Grow Up](Tabs/Grow-Up-Tab.md)
+- [ ] [Drinking in L.A. (Bran Van 3000 cover)](Tabs/Drinking-In-LA-Tab.md)
+- [ ] [Goodbye](Tabs/Goodbye-Tab.md) _(In Progress)_
+- [ ] [Grow Up](Tabs/Grow-Up-Tab.md)
 - [ ] He Is Vigo
 - [ ] He Who Can't Be Questioned
 - [ ] Hey Karl
@@ -52,7 +52,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] Pools of Pearl
 - [x] [Private & Confidential](/C-Standard-Tabs/Private-&-Confidential-Tab.md)
 - [x] [The Collector](/C-Standard-Tabs/The-Collector-Tab.md)
-- [ ] The Swarm
+- [ ] [The Swarm](C-Standard-Tabs/The-Swarm-Tab.md)
 - [x] [Too Lit](/C-Standard-Tabs/Too-Lit-Tab.md)
 - [x] [Two Of Hearts (Stacey Q cover)](C-Standard-Tabs/Two-Of-Hearts-Tab.md)
 - [x] [You Were Warned](/C-Standard-Tabs/You-Were-Warned-Tab.md)
