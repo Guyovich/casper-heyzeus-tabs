@@ -16,7 +16,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Doomsday](Tabs/Doomsday-Tab.md)
 - [x] [Drinking in L.A. (Bran Van 3000 cover)](Tabs/Drinking-In-LA-Tab.md)
 - [ ] Goodbye
-- [ ] Grow Up
+- [x] [Grow Up](Tabs/Grow-Up-Tab.md)
 - [ ] He Is Vigo
 - [ ] He Who Can't Be Questioned
 - [ ] Hey Karl
