@@ -2,6 +2,7 @@
 
 <https://urltoyoutubevid.eh>
 
+Standard tuning (E-A-D-G-B-E)
 _(Optional)_ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 ## Bass
