@@ -18,7 +18,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Goodbye](Tabs/Goodbye-Tab.md)
 - [ ] [Grow Up](Tabs/Grow-Up-Tab.md)
 - [x] [He Is Vigo](Tabs/He-Is-Vigo-Tab.md)
-- [ ] [He Who Can't Be Questioned](/Tabs/He-Who-Cant-Be-Questioned-Tab.md) _(In Progress)_
+- [x] [He Who Can't Be Questioned](/Tabs/He-Who-Cant-Be-Questioned-Tab.md)
 - [ ] Hey Karl
 - [ ] Hey! Fuck Face
 - [ ] I Know Best
