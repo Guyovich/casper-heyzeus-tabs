@@ -2,6 +2,8 @@
 
 <https://www.youtube.com/watch?v=2ig7FZ1u9C0>
 
+Standard tuning (E-A-D-G-B-E)
+
 ## Bass
 
 ### Intro / Verse

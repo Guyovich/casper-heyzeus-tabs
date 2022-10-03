@@ -27,7 +27,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] Muerte El Salvador
 - [ ] Nostalgia
 - [x] [Pain Is Eternal](/Tabs/Pain-Is-Eternal-Tab.md)
-- [ ] Para Sight *
+- [ ] [Para Sight](/Tabs/Para-Sight-Tab.md) * _In Progress_
 - [ ] People on the Bus
 - [ ] Poster Boy
 - [ ] Scumbag *
