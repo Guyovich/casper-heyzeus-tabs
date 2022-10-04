@@ -27,13 +27,13 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] Muerte El Salvador
 - [ ] Nostalgia
 - [x] [Pain Is Eternal](/Tabs/Pain-Is-Eternal-Tab.md)
-- [ ] [Para Sight](/Tabs/Para-Sight-Tab.md) * _In Progress_
+- [x] [Para Sight](/Tabs/Para-Sight-Tab.md)
 - [ ] People on the Bus
 - [ ] Poster Boy
-- [ ] Scumbag *
+- [ ] [Scumbag](/Tabs/Scumbag-Tab.md) _(In progress)_
 - [ ] Something You Love
 - [ ] Studio 26 *
-- [ ] Sugartax *
+- [x] Sugartax *
 - [ ] The Castle of Kilbarney
 - [ ] The More I See
 - [ ] The Mountains
