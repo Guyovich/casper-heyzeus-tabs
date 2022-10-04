@@ -33,7 +33,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] [Scumbag](/Tabs/Scumbag-Tab.md) _(In progress)_
 - [ ] Something You Love
 - [ ] Studio 26 *
-- [x] Sugartax *
+- [x] [Sugartax](/Tabs/Sugartax.md)
 - [ ] The Castle of Kilbarney
 - [ ] The More I See
 - [ ] The Mountains
