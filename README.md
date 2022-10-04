@@ -10,7 +10,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [A Family Trip to Burger King](/Tabs/A-Family-Trip-To-Burger-King-Tab.md)
 - [x] [Albino Pigeon](/Tabs/Albino-Pigeon-Tab.md)
 - [x] [Alfred's Lament](/Tabs/Alfreds-Lament-Tab.md)
-- [x] [Another Love Song (Jodeh)](/Tabs/Another-Love-Song-Jodeh.md)
+- [x] [Another Love Song (Jodeh)](/Tabs/Another-Love-Song-Jodeh-Tab.md)
 - [x] [Church on Sunday](/Tabs/Church-On-Sunday-Tab.md)
 - [x] [Don't Be A Cunt](/Tabs/Dont-Be-A-Cunt-Tab.md)
 - [x] [Doomsday](/Tabs/Doomsday-Tab.md)
@@ -33,12 +33,12 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] [Scumbag](/Tabs/Scumbag-Tab.md) _(In progress)_
 - [ ] Something You Love
 - [ ] Studio 26 *
-- [x] [Sugartax](/Tabs/Sugartax.md)
+- [x] [Sugartax](/Tabs/Sugartax-Tab.md)
 - [ ] The Castle of Kilbarney
 - [ ] The More I See
 - [ ] The Mountains
 - [ ] TMNT (Teenage Mutant Hero Turtles theme cover)
-- [ ] Unhinged *
+- [ ] [Unhinged](/Tabs/Unhinged-Tab.md) * _(In progress)_
 - [ ] Vacate *
 - [ ] Wasted
 
