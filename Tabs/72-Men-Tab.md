@@ -37,6 +37,24 @@ Standard tuning (E-A-D-G-B-E)
 
 ## Guitar (TBC)
 
+### Chorus (Lead) _TBC_
+
+    e |--
+    B |--
+    G |--
+    D |--
+    A |--
+    E |--
+
+### Solo (Lead) _TBC_
+
+    e |--
+    B |--
+    G |--
+    D |--
+    A |--
+    E |--
+
 ## Synth
 
 ### Intro
