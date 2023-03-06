@@ -7,6 +7,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 
 ## Standard Tabs
 
+- [ ] [72 Men](/Tabs/72-Men-Tab.md) _(In Progress)_
 - [x] [A Family Trip to Burger King](/Tabs/A-Family-Trip-To-Burger-King-Tab.md)
 - [x] [Albino Pigeon](/Tabs/Albino-Pigeon-Tab.md)
 - [x] [Alfred's Lament](/Tabs/Alfreds-Lament-Tab.md)
