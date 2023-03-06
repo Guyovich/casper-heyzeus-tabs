@@ -1,4 +1,4 @@
-# Unhinged Tab (Synth TBC)
+# Unhinged Tab (Guitar / Synth TBC)
 
 <https://www.youtube.com/watch?v=jsouaM1sHZ0>
 
