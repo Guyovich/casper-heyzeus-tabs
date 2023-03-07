@@ -1,4 +1,4 @@
-# 72 Men Tab (Guitar TBC)
+# 72 Men Tab
 
 <https://www.youtube.com/watch?v=A_yvdxcafgI>
 
