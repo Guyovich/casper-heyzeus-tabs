@@ -7,7 +7,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 
 ## Standard Tabs
 
-- [x] **[72 Men]**(/Tabs/72-Men-Tab.md)
+- [x] **[72 Men](/Tabs/72-Men-Tab.md)**
 - [ ] **Amanda Please**
 - [x] [A Family Trip to Burger King](/Tabs/A-Family-Trip-To-Burger-King-Tab.md)
 - [x] [Albino Pigeon](/Tabs/Albino-Pigeon-Tab.md)
@@ -17,7 +17,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Don't Be A Cunt](/Tabs/Dont-Be-A-Cunt-Tab.md)
 - [x] [Doomsday](/Tabs/Doomsday-Tab.md)
 - [ ] [Drinking in L.A. (Bran Van 3000 cover)](/Tabs/Drinking-In-LA-Tab.md)
-- [ ] **[For King and Country]**(/Tabs/For-King-And-Country-Tab.md) _(In progress)_
+- [ ] **[For King and Country](/Tabs/For-King-And-Country-Tab.md)** _(In progress)_
 - [x] [Goodbye](/Tabs/Goodbye-Tab.md)
 - [ ] [Grow Up](/Tabs/Grow-Up-Tab.md)
 - [x] [He Is Vigo](/Tabs/He-Is-Vigo-Tab.md)
