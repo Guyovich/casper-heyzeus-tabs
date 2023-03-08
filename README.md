@@ -46,7 +46,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] [Unhinged](/Tabs/Unhinged-Tab.md) * _(In progress)_
 - [ ] Vacate *
 - [ ] Wasted
-- [ ] **Watching Walls**
+- [ ] **[Watching Walls](/Tabs/Watching-Walls-Tab.md)** _(In progress)_
 
 ## C Standard Tabs
 
