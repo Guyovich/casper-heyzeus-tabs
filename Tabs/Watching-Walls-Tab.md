@@ -4,7 +4,7 @@
 
 Standard tuning (E-A-D-G-B-E)
 
-## Bass
+## Bass _(TBC)_
 
 ### Intro / Verse _(TBC)_
 
@@ -34,14 +34,14 @@ Standard tuning (E-A-D-G-B-E)
     A|--
     E|--
 
-### Outro
+### Outro _(TBC)_
 
     G|--
     D|--
     A|--
     E|--
 
-## Guitar
+## Guitar _(TBC)_
 
 ### Intro / Verse _(TBC)_
 
@@ -79,7 +79,7 @@ Standard tuning (E-A-D-G-B-E)
     A |--
     E |--
 
-### Solo 1 (Lead)
+### Solo 1 (Lead) _(TBC)_
 
         During 2nd Pre-Chorus:
     e |--
@@ -89,7 +89,7 @@ Standard tuning (E-A-D-G-B-E)
     A |--
     E |--
 
-### Solo 2 (Lead)
+### Solo 2 (Lead) _(TBC)_
 
         During 2nd Chorus - last 8 bars:
     e |--
@@ -99,7 +99,7 @@ Standard tuning (E-A-D-G-B-E)
     A |--
     E |--
 
-### Outro
+### Outro _(TBC)_
 
     e |--
     B |--
