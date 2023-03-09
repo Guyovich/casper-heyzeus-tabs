@@ -130,7 +130,7 @@ Standard tuning (E-A-D-G-B-E)
     A |--7--7-7-7-5-7-7--7-7-7-7-5-7--10--10-10-10-9-10-12--12-12-12-12-10*-12--
     E |--5--5-5-5-3-5-----------------8---8--8--8--7-8--10--10-10-10-10-8-*-10--
 
-    * The recording uses C# here (E9-A11-D11), but this has been changed to a C for da band.
+    * The recording uses C# here (E9-A11-D11), but this has been changed to a C (E8-A10-D10) for da band.
   
       Voting members for this change:
       - Jambo
