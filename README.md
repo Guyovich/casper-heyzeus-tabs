@@ -17,7 +17,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Don't Be A Cunt](/Tabs/Dont-Be-A-Cunt-Tab.md)
 - [x] [Doomsday](/Tabs/Doomsday-Tab.md)
 - [ ] [Drinking in L.A. (Bran Van 3000 cover)](/Tabs/Drinking-In-LA-Tab.md)
-- [x] **[For King and Country](/Tabs/For-King-And-Country-Tab.md)** _(Finished except Lead guitar, 2nd verse)_
+- [x] **[For King and Country](/Tabs/For-King-And-Country-Tab.md)** _(Finished except Lead guitar (2nd verse))_
 - [x] [Goodbye](/Tabs/Goodbye-Tab.md)
 - [ ] [Grow Up](/Tabs/Grow-Up-Tab.md)
 - [x] [He Is Vigo](/Tabs/He-Is-Vigo-Tab.md)

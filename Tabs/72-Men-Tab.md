@@ -185,7 +185,7 @@ Standard tuning (E-A-D-G-B-E)
 
 ### Verse / Outro
 
-    G4  G4  F#4 E4 D4 A3
-    G4  G4  F#4 E4 D4 A3  B3  C#4  D4  E4
-    G4  G4  F#4 E4 D4 A3
+    G4  G4  F#4 E4   A3
+    G4  G4  F#4 E4   A3  B3  C#4  D4  E4
+    G4  G4  F#4 E4   A3
     F3   G3   A3 (x2 for Outro)
