@@ -45,7 +45,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] [Unhinged](/Tabs/Unhinged-Tab.md) * _(In progress)_
 - [ ] Vacate *
 - [ ] Wasted
-- [ ] **[Watching Walls](/Tabs/Watching-Walls-Tab.md)** _(In progress)_
+- [ ] **[Watching Walls](/Tabs/Watching-Walls-Tab.md)** _(In progress - done except bass and guitar solos)_
 
 ## Drop D Tabs
 
