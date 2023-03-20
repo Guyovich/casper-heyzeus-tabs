@@ -4,6 +4,7 @@
 
 Standard tuning (E-A-D-G-B-E)
 _(Optional)_ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
+_(Optional)_ Drop D tuning (D-A-D-G-B-E)
 
 ## Bass
 
@@ -11,10 +12,10 @@ _(Optional)_ C Standard tuning (C-F-A♯-D♯-G-C or C-F-B♭-E♭-G-C)
 
 Standard
 
-    G|--
-    D|--
-    A|--
-    E|--
+    G |--
+    D |--
+    A |--
+    E |--
 
 C Standard
 
@@ -22,6 +23,13 @@ C Standard
     A#|--
     F |--
     C |--
+
+Drop D
+
+    G |--
+    D |--
+    A |--
+    D |--
 
 ## Guitar
   

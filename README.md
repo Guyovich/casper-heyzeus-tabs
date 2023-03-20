@@ -8,7 +8,6 @@ Use `Ctrl + left click` to open link in new browser tab:
 ## Standard Tabs
 
 - [x] **[72 Men](/Tabs/72-Men-Tab.md)**
-- [ ] **Amanda Please**
 - [x] [A Family Trip to Burger King](/Tabs/A-Family-Trip-To-Burger-King-Tab.md)
 - [x] [Albino Pigeon](/Tabs/Albino-Pigeon-Tab.md)
 - [x] [Alfred's Lament](/Tabs/Alfreds-Lament-Tab.md)
@@ -47,6 +46,10 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] Vacate *
 - [ ] Wasted
 - [ ] **[Watching Walls](/Tabs/Watching-Walls-Tab.md)** _(In progress)_
+
+## Drop D Tabs
+
+- [ ] **[Amanda Please](/Drop-D-Tabs/Amanda-Please-Tab.md)** _(In Progress)_
 
 ## C Standard Tabs
 
