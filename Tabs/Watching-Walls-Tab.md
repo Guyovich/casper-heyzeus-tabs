@@ -1,4 +1,4 @@
-# Watching Walls Tab
+# Watching Walls Tab (TBC)
 
 <https://www.youtube.com/watch?v=SrZvvHOCArk>
 
@@ -8,38 +8,38 @@ Standard tuning (E-A-D-G-B-E)
 
 ### Intro / Verse _(TBC)_
 
-    G|--
-    D|--
-    A|--
-    E|--
+    G |--
+    D |--
+    A |--
+    E |--
 
 ### Pre-Chorus _(TBC)_
 
-    G|--
-    D|--
-    A|--
-    E|--
+    G |--
+    D |--
+    A |--
+    E |--
 
 ### Chorus _(TBC)_
 
-    G|--
-    D|--
-    A|--
-    E|--
+    G |--
+    D |--
+    A |--
+    E |--
 
 ### Post-Chorus _(TBC)_
 
-    G|--
-    D|--
-    A|--
-    E|--
+    G |--
+    D |--
+    A |--
+    E |--
 
 ### Outro _(TBC)_
 
-    G|--
-    D|--
-    A|--
-    E|--
+    G |--
+    D |--
+    A |--
+    E |--
 
 ## Guitar _(Solos TBC)_
 
