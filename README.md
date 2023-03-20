@@ -49,7 +49,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 
 ## Drop D Tabs
 
-- [ ] **[Amanda Please](/Drop-D-Tabs/Amanda-Please-Tab.md)** _(In Progress)_
+- [x] **[Amanda Please](/Drop-D-Tabs/Amanda-Please-Tab.md)**
 
 ## C Standard Tabs
 
