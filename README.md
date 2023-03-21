@@ -34,7 +34,6 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] Poster Boy
 - [ ] **[Run Don't Walk](/Tabs/Run-Dont-Walk-Tab.md)** _(In progress)_
 - [ ] [Scumbag](/Tabs/Scumbag-Tab.md) _(In progress)_
-- [ ] Something You Love
 - [ ] Studio 26 *
 - [x] [Sugartax](/Tabs/Sugartax-Tab.md)
 - [ ] The Castle of Kilbarney
@@ -50,6 +49,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 ## Drop D Tabs
 
 - [x] **[Amanda Please](/Drop-D-Tabs/Amanda-Please-Tab.md)**
+- [ ] Something You Love
 
 ## C Standard Tabs
 
