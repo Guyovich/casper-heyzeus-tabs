@@ -32,7 +32,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Para Sight](/Tabs/Para-Sight-Tab.md)
 - [ ] People on the Bus
 - [ ] Poster Boy
-- [ ] **Run Don't Walk**
+- [ ] **[Run Don't Walk](/Tabs/Run-Dont-Walk-Tab.md)** _(In progress)_
 - [ ] [Scumbag](/Tabs/Scumbag-Tab.md) _(In progress)_
 - [ ] Something You Love
 - [ ] Studio 26 *
