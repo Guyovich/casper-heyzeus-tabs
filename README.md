@@ -37,7 +37,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] Studio 26 *
 - [x] [Sugartax](/Tabs/Sugartax-Tab.md)
 - [ ] The Castle of Kilbarney
-- [ ] **The Drifter**
+- [ ] **[The Drifter](/Tabs/The-Drifter-Tab.md)** _(In progress)_
 - [ ] The More I See
 - [ ] The Mountains
 - [ ] TMNT (Teenage Mutant Hero Turtles theme cover)
