@@ -1,4 +1,4 @@
-# Saturday Night Dickhead Tab (Synth TBC)
+# Saturday Night Dickhead Tab
 
 <https://www.youtube.com/watch?v=G3tE4sL-6oA>
 
@@ -90,8 +90,8 @@ Standard tuning (E-A-D-G-B-E)
     A |--7--5--7--5--7----5-5-7--5--7--------
     E |--------------------------------------
 
-## Synth (TBC)
+## Synth
 
 ### Verse
 
-    C4
+    D4  B3    D4 B3 A3 B3  E3 (x4)
