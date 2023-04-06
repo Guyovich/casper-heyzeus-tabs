@@ -33,7 +33,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [ ] People on the Bus
 - [ ] Poster Boy
 - [ ] **[Run Don't Walk](/Tabs/Run-Dont-Walk-Tab.md)** _(In progress - done except bass)_
-- [ ] [Saturday Night Dickhead](/Tabs/Saturday-Night-Dickhead-Tab.md) _(In progress)_
+- [ ] [Saturday Night Dickhead](/Tabs/Saturday-Night-Dickhead-Tab.md) _(In progress - done except synth)_
 - [ ] [Scumbag](/Tabs/Scumbag-Tab.md) _(In progress)_
 - [x] [Straight To Hell](/Tabs/Straight-To-Hell-Tab.md)
 - [ ] Studio 26 *
