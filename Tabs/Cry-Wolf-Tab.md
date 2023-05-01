@@ -72,7 +72,7 @@ Standard tuning (E-A-D-G-B-E)
     A |--
     E |--
 
-## Synth _(TBC)_
+## Synth
 
 ### Intro
 
@@ -86,6 +86,9 @@ Standard tuning (E-A-D-G-B-E)
 
     A5  G5  F#5  F5  F#5    A5  G5  F#5  G5  A5    A5  G5  F#5  F5  E5   D5   E5 (x2)
 
-### Chorus 2 / Outro _(TBC)_
+### Chorus 2 / Outro
 
-    G4
+    G4    B4 E5  D5  E5 D5 (x2)
+    C5    C#5 D5     C5 B4   
+    G4    B4 E5  D5  E5 D5 (x2)
+    G3
