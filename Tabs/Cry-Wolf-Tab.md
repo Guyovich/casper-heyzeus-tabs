@@ -82,6 +82,10 @@ Standard tuning (E-A-D-G-B-E)
    LH| A2        C3        F3        D3        A2        C3        F3        D3
    RH| A6        G6     D6 E6  G6 C6        D6 E6  A5    F5 G5 A5  B5 C6  B5 A5
 
-### Bridge _(TBC)_
+### Bridge
+
+    A5  G5  F#5  F5  F#5    A5  G5  F#5  G5  A5    A5  G5  F#5  F5  E5   D5   E5 (x2)
 
 ### Chorus 2 / Outro _(TBC)_
+
+    G4
