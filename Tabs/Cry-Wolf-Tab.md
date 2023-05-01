@@ -62,6 +62,16 @@ Standard tuning (E-A-D-G-B-E)
     A |--
     E |--
 
+### Outro (Rhythm) _(TBC)_
+
+        Same as Chorus, then end with:
+    e |--
+    B |--
+    G |--
+    D |--
+    A |--
+    E |--
+
 ## Synth _(TBC)_
 
 ### Intro _(TBC)_ 
@@ -70,4 +80,4 @@ Standard tuning (E-A-D-G-B-E)
 
 ### Bridge _(TBC)_
 
-### Chorus 2 _(TBC)_
+### Chorus 2 / Outro _(TBC)_
