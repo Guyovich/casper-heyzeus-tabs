@@ -13,6 +13,7 @@ Use `Ctrl + left click` to open link in new browser tab:
 - [x] [Alfred's Lament](/Tabs/Alfreds-Lament-Tab.md)
 - [x] [Another Love Song (Jodeh)](/Tabs/Another-Love-Song-Jodeh-Tab.md)
 - [x] [Church on Sunday](/Tabs/Church-On-Sunday-Tab.md)
+- [ ] **[Cry Wolf](/Tabs/Cry-Wolf-Tab.md)** _(In progress)_
 - [x] [Don't Be A Cunt](/Tabs/Dont-Be-A-Cunt-Tab.md)
 - [x] [Doomsday](/Tabs/Doomsday-Tab.md)
 - [ ] [Drinking in L.A. (Bran Van 3000 cover)](/Tabs/Drinking-In-LA-Tab.md)
