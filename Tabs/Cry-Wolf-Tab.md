@@ -76,11 +76,11 @@ Standard tuning (E-A-D-G-B-E)
 
 ### Intro
 
-   LH| A2        C3        F3        D3 (x8)
+    LH| A2        C3        F3        D3 (x8)
 
-   Then:
-   LH| A2        C3        F3        D3        A2        C3        F3        D3
-   RH| A6        G6     D6 E6  G6 C6        D6 E6  A5    F5 G5 A5  B5 C6  B5 A5
+    Then:
+    LH| A2        C3        F3        D3        A2        C3        F3        D3
+    RH| A6        G6     D6 E6  G6 C6        D6 E6  A5    F5 G5 A5  B5 C6  B5 A5
 
 ### Bridge
 
